@@ -1,0 +1,15 @@
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\SubSetII.csproj.AssemblyReference.cache
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\SubSetII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\SubSetII.AssemblyInfoInputs.cache
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\SubSetII.AssemblyInfo.cs
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\SubSetII.csproj.CoreCompileInputs.cache
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\bin\Debug\net6.0\SubSetII.exe
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\bin\Debug\net6.0\SubSetII.deps.json
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\bin\Debug\net6.0\SubSetII.runtimeconfig.json
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\bin\Debug\net6.0\SubSetII.dll
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\bin\Debug\net6.0\SubSetII.pdb
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\SubSetII.dll
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\refint\SubSetII.dll
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\SubSetII.pdb
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\SubSetII.genruntimeconfig.cache
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\SubSetII\obj\Debug\net6.0\ref\SubSetII.dll

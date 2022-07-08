@@ -1,0 +1,15 @@
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\bin\Debug\net6.0\Permutations.exe
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\bin\Debug\net6.0\Permutations.deps.json
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\bin\Debug\net6.0\Permutations.runtimeconfig.json
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\bin\Debug\net6.0\Permutations.dll
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\bin\Debug\net6.0\Permutations.pdb
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\Permutations.csproj.AssemblyReference.cache
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfoInputs.cache
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfo.cs
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\Permutations.dll
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\refint\Permutations.dll
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\Permutations.pdb
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\Permutations.genruntimeconfig.cache
+C:\Users\BS296\Desktop\bs23\learning_csharp\CombinationSumII\Permutations\obj\Debug\net6.0\ref\Permutations.dll
